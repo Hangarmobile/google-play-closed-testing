@@ -5,6 +5,10 @@ Personal Google Play developer accounts created after **November 13, 2023** must
 - [Checklist](CHECKLIST.md): everything to verify before you apply for production.
 - [14-day plan](PLAN.md): what to do each day of the test.
 - [Production access answers](PRODUCTION-ACCESS.md): the questions Google asks, with weak and strong example answers.
+- [Tester log template](templates/tester-log.csv): a CSV to open in Google Sheets or Excel and fill in during the test.
+- [Resources](RESOURCES.md): official docs, free ways to find testers, paid services.
+
+En français : [lire le guide en français](fr/README.md).
 
 ## The rule in short
 

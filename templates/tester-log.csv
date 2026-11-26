@@ -1,0 +1,3 @@
+date,tester,phone_brand_model,android_version,feature_tested,feedback_or_bug,severity,fixed_in_version,rechecked_by_tester
+2026-01-05,Tester 1,Samsung Galaxy A14,14,Sign-up,Sign-up button hidden on small screen,medium,1.1,yes
+2026-01-06,Tester 2,Xiaomi Redmi Note 12,13,Main flow,English system dialog in French version,low,1.1,yes
