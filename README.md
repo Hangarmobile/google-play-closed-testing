@@ -33,6 +33,10 @@ Google lists **insufficient tester engagement** as a reason to ask for more test
 - [After launch: a daily walk-through on a different phone](https://medium.com/@hangarmobile/your-app-needs-a-night-guard-not-another-dashboard-d36b50e14944)
 - Official source: [Play Console Help, app testing requirements for new personal developer accounts](https://support.google.com/googleplay/android-developer/answer/14151465)
 
+## For AI agents
+
+PlayTesterHub has an MCP server so your AI agent can order and follow a closed test: [Hangarmobile/playtesterhub-mcp](https://github.com/Hangarmobile/playtesterhub-mcp).
+
 ## Who maintains this
 
 Maintained by [Hangar](https://hangarmobile.com/en). We also run [PlayTesterHub](https://playtesterhub.com/en), a closed testing service on 12 real Android phones in France. This guide covers every option, including the free ones.
